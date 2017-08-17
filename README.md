@@ -1,2 +1,2 @@
 # Genius
-Proposal。。。。。。
+Proposal
