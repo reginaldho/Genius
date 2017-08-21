@@ -1,8 +1,8 @@
 # Genius
-##Proposal
-###Introduction
-###Concept 
-###Team
-###Communication
-###Plan
-###Tags
+## Proposal
+### Introduction
+### Concept 
+### Team
+### Communication
+### Plan
+### Tags
