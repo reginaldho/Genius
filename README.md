@@ -1,8 +1,8 @@
-# Genius
+# Team Genuis Proposal
 ## Proposal
-### Introduction
-### Concept 
-### Team
-### Communication
-### Plan
-### Tags
+## Introduction
+## Concept 
+## Team
+## Communication
+## Plan
+## Tags
