@@ -18,6 +18,9 @@ members and their course code. Identify:
 be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate
 communication and / or file sharing? 
+
+Meetings are held during the contact weekly and additional meeting is considered according to current project process.A 72-hours meeting notice should be given which involves meeting location,time and meeting contents.In addition,Facebook message would be the primary instance communication channel for project notification and management,while Google drive and Github would be used as support tool for sharing resources online.Every team member should give respond within 24 hour.
+Every team member is required to attend the meeting.If not,a 24-hour notice should be given.
 ## Plan
  Identify the key tasks that need to be completed and when. Identify:
 * Item Project phases e.g. research; requirements; design; construction;
