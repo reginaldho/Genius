@@ -8,11 +8,11 @@ that apply to, will inform your concept & approach.
 ## Team
 Who is on your team, what are their responsibilities, and how will you work together? List all the
 members and their course code. Identify: 
-* Item  Who will lead the team and manage the project; 
-* Item Who is responsible for logistics e.g. equipment, meetings, transport, etc; 
-* Item  Who fills key roles, e.g. back end, front end, content, design;
-*Item How will decisions be made;
-*Item 5 How will the team handle poor performance and resolve conflicts. 
+* Who will lead the team and manage the project; 
+* Who is responsible for logistics e.g. equipment, meetings, transport, etc; 
+* Who fills key roles, e.g. back end, front end, content, design;
+* How will decisions be made;
+* How will the team handle poor performance and resolve conflicts. 
 ## Communication
  Where and when will your team meet and how will you all communicate? Where will files 1
 be stored and shared? What are the file naming conventions?
@@ -23,7 +23,7 @@ Meetings are held during the contact weekly and additional meeting is considered
 Every team member is required to attend the meeting.If not,a 24-hour notice should be given.
 ## Plan
  Identify the key tasks that need to be completed and when. Identify:
-* Item Project phases e.g. research; requirements; design; construction;
-* Item Key deliverables for each phase (Milestones) ; 2
-* Item Resources – equipment or other tools/people you might need. 
+* Project phases e.g. research; requirements; design; construction;
+* Key deliverables for each phase (Milestones) ; 2
+* Resources – equipment or other tools/people you might need. 
 ## Tags
