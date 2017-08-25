@@ -26,6 +26,8 @@ communication and / or file sharing?
 ### Tools
 * Facebook message would be the primary instance communication channel for project notification and project management because every teammember has their Facebook account on their phone,ensuring all the newest updates of project can be known by every team member at the first time and nothing urgent is missed.In addition,every team member should give respond within 24 hour.
 * Google drive and Github would be used as support tool for sharing resources online and since it will have record for each one's contribution and the team can identify the current project easily from the records and adjust the workload.Also,Google drive and Github allowing multiple people working on the same document at the same time which can improve the team efficiency dreamatically.
+###Naming Convention
+The default naming convention for all the files would be :TEAMNAME_XXX
 ## Plan
  Identify the key tasks that need to be completed and when. Identify:
 * Project phases e.g. research; requirements; design; construction;
