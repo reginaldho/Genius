@@ -21,11 +21,11 @@ communication and / or file sharing?
 
 ### Meetings
 * Meetings are held during the contact weekly and additional meeting is considered according to current project process.
-* A at least 72-hours meeting notice should be given which involves meeting location,time and meeting contents.
+* A at least 24-hours meeting notice should be given which involves meeting location,time and meeting contents.Hence,team members can prepare to the meeting.
 * Every team member is required to attend the meeting.If not,a 24-hour notice should be given.
 ### Tools
-* Facebook message would be the primary instance communication channel for project notification and project management,Every team member should give respond within 24 hour.
-* Google drive and Github would be used as support tool for sharing resources online.
+* Facebook message would be the primary instance communication channel for project notification and project management because every teammember has their Facebook account on their phone,ensuring all the newest updates of project can be known by every team member at the first time and nothing urgent is missed.In addition,every team member should give respond within 24 hour.
+* Google drive and Github would be used as support tool for sharing resources online and since it will have record for each one's contribution and the team can identify the current project easily from the records and adjust the workload.Also,Google drive and Github allowing multiple people working on the same document at the same time which can improve the team efficiency dreamatically.
 ## Plan
  Identify the key tasks that need to be completed and when. Identify:
 * Project phases e.g. research; requirements; design; construction;
