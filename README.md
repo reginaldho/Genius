@@ -14,7 +14,7 @@ members and their course code. Identify:
 * How will decisions be made;
 * How will the team handle poor performance and resolve conflicts. 
 ## Communication
- Where and when will your team meet and how will you all communicate? Where will files 1
+Where and when will your team meet and how will you all communicate? Where will files 1
 be stored and shared? What are the file naming conventions?
 Identify the social platform/s your team has adopted and explain the choice. How will it facilitate
 communication and / or file sharing? 
