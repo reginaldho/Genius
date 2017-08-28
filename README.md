@@ -15,12 +15,12 @@ members and their course code. Identify:
 * How will the team handle poor performance and resolve conflicts. 
 
 Name | Student Number | Course Code
------------- | -------------
-Bhawna Soi | 
-Lu Boom | DECO7350
-Ariel Gao | DECO7350 |
-Xiaoxin Wang | 44091673 | 44091673
-Reginald Ho | DECO3500 |
+------------ | ------------- | ------------
+Bhawna Soi | DECO3500 ｜ DECO3500
+Lu Boom | DECO7350 | DECO3500
+Ariel Gao | DECO7350 | DECO3500
+Xiaoxin Wang | 44091673 | DECO3500
+Reginald Ho | DECO3500 | DECO3500
 
 It is hard to decide who is the best suitable person to become the leader to lead the team due to everyone has their own personality and ability, we finally have decided Bhawna to undertake the position. Since she has the longest study life than rest of the teammates, we have decided to let her become the leader and manage the project. We believed it is the best decision and she will lead the team successfully. 
 
