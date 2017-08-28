@@ -13,12 +13,14 @@ members and their course code. Identify:
 * Who fills key roles, e.g. back end, front end, content, design;
 * How will decisions be made;
 * How will the team handle poor performance and resolve conflicts. 
-Name					Course Code
-Bhawna Soi				DECO7350
-Lu Boom					DECO7350
-Ariel Gao					DECO7350
-Xiaoxin Wang				DECO3500
-Reginald Ho				DECO3500
+Name | Course Code | Student No.
+------------ | -------------
+Bhawna Soi | 	DECO7350
+Lu Boom | DECO7350 |
+Ariel Gao | DECO7350 |
+Xiaoxin Wang | DECO3500 | 44091673
+Reginald Ho | DECO3500 |
+
 It is hard to decide who is the best suitable person to become the leader to lead the team due to everyone has their own personality and ability, we finally have decided Bhawna to undertake the position. Since she has the longest study life than rest of the teammates, we have decided to let her become the leader and manage the project. We believed it is the best decision and she will lead the team successfully. 
 For the logistics part, Lu will undertake these jobs. She will be responsible for manage a team meeting, to group up which time is comfort for everyone for a team meeting and in charge of book a room for meeting. However, we thought it is not necessary to provide transport because most of the activities will be held in the campus and we will only use out own computer or faculty’s computer to complete our work.
 To fill the key rolls, we decide to let Reginald to do the back end role, Bhawna will in charge of front end, XioaXin and Ariiel will in responsible for thinking content part and Lu will design the product interface.
