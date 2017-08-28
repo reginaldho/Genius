@@ -14,7 +14,7 @@ members and their course code. Identify:
 * How will decisions be made;
 * How will the team handle poor performance and resolve conflicts. 
 
-Name | Student Number
+Name | Student Number | Course Code
 ------------ | -------------
 Bhawna Soi | 
 Lu Boom | DECO7350
