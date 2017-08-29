@@ -57,7 +57,7 @@ Bhawna Soi | DECO3500 ｜ DECO3500
 Lu Boom | DECO7350 | DECO7350
 Jiayu Gao | 44460381 | DECO7350
 Xiaoxin Wang | 44091673 | DECO3500
-Reginald Ho | DECO3500 | DECO3500
+Reginald Ho | 44018157 | DECO3500
 
 It is hard to decide who is the best suitable person to become the leader to lead the team due to everyone has their own personality and ability, we finally have decided Bhawna to undertake the position. Since she has the longest study life than rest of the teammates, we have decided to let her become the leader and manage the project. We believed it is the best decision and she will lead the team successfully. 
 
