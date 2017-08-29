@@ -53,8 +53,8 @@ members and their course code. Identify:
 
 Name | Student Number | Course Code
 ------------ | ------------- | ------------
-Bhawna Soi | DECO3500｜DECO3500
-Lu Boom | DECO7350 | DECO7350
+Bhawna Soi | DECO7350 | DECO7350
+Lu Cao | DECO7350 | DECO7350
 Jiayu Gao | 44460381 | DECO7350
 Xiaoxin Wang | 44091673 | DECO3500
 Reginald Ho | DECO3500 | DECO3500
