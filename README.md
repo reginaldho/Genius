@@ -16,6 +16,15 @@ At the same time, we also consider the aging people have more life experience me
 ### Project aims & Audience
 Our target audience is age from 60 to 100 years old people who have a rich life experience, happy to share music and their stories and experiences with young people and their peers. The target audience also could be keen on the inheritance and continuation of music.
 The goal of this project is to develop a music, life, and memories sharing software for the elderly. This app uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.
+
+### Emotion design
+Emotional design is a term popularised by Don Norman to explain why "attractive things work better” to address the criticism of his previous book that he was advocating(Su Mi Dahlgaard Park,2015).
+All design is emotional, but by focusing on personal concern/values and meaning, designers intend to evoke targeted emotions by taking directed design decisions. We are not able to create the emotion in itself; therefore it is common practice to talk about 'design for emotion.' We create the context in which emotions are elicited.e but ugly' products.In our interface design,we focus on emotion design,the reasons are the following:
+ - Nostalgic style
+Our target group is aging people, they might have lots of experienced in their life.so the nostalgic style to resonate their conditions,mirroring aspects of memory.
+ - Usage habits
+This product design mode of operation,as much as possible uses the functions/interface that aging people are familiar with.
+
 ### Innovation
 * Target groups
 According to our research, In the 18 months starting July 2008, when Apple updated the iOS to support native apps, and ending in January 2010, nearly 150,000 apps were released. That's around 275 apps per day. In so many massive amounts of mobile phone software, music software accounted for 40% of the number (live wire,2010).In this 40% of the software inside, most of the design groups are for young people. For example iTunes, For you, Tidal, Spotify and so on. And for the elderly involved in the software is only has 1%. So our innovation is to target the group for the aging people.
@@ -54,7 +63,7 @@ members and their course code. Identify:
 Name | Student Number | Course Code
 ------------ | ------------- | ------------
 Bhawna Soi | DECO7350 | DECO7350
-Lu Cao | DECO7350 | DECO7350
+Lu Cao | 45034097 | DECO7350
 Jiayu Gao | 44460381 | DECO7350
 Xiaoxin Wang | 44091673 | DECO3500
 Reginald Ho | DECO3500 | DECO3500
@@ -109,3 +118,7 @@ In research, the milestone is graphic representations which may include pie char
   * A group of elderly, no matter they like music or not, would possibly participate our utility tests. We may intend to find old groups in Brisbane City, welfare homes and even make our relatives as participants. This step would between the period of second and last iteration of prototyping work, and we would make some changes according to the feedback we received.
 
 ## Tags
+## Reference List
+Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 
+Lifewire,2010 https://www.lifewire.com/how-many-apps-in-app-store-2000252
+
