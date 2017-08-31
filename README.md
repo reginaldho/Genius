@@ -1,8 +1,8 @@
-s# Team Genuis Proposal
+# Team Genuis Proposal
 ## Introduction
 What is your project and what dilemma does it aim to address. 
 
-Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will allow self-expression and then sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.
+Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will allow self-expression and then sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their hearing or speaking impairments.
 
 ## Concept 
 outline the idea and the rationale behind it. Define the project aims and audience and identify how
@@ -62,7 +62,7 @@ members and their course code. Identify:
 
 Name | Student Number | Course Code
 ------------ | ------------- | ------------
-Bhawna Soi | DECO7350 | DECO7350
+Bhawna Soi | 44726382 | DECO7350
 Lu Cao | 45034097 | DECO7350
 Jiayu Gao | 44460381 | DECO7350
 Xiaoxin Wang | 44091673 | DECO3500
