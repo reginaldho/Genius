@@ -2,7 +2,7 @@
 ## Introduction
 What is your project and what dilemma does it aim to address. 
 
-Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will allow self-expression and then sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their hearing or speaking impairments.
+Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will allow self-expression and then sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their various impairments and also taking into consideration their abilities.
 
 ## Concept 
 outline the idea and the rationale behind it. Define the project aims and audience and identify how
@@ -118,8 +118,7 @@ In research, the milestone is graphic representations which may include pie char
   * A group of elderly, no matter they like music or not, would possibly participate our utility tests. We may intend to find old groups in Brisbane City, welfare homes and even make our relatives as participants. This step would between the period of second and last iteration of prototyping work, and we would make some changes according to the feedback we received.
 
 ## Tags
-
-
+ #mobile ##emotional_design #social #Technology_for_elders #ageing
 ## Reference List
 Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 
 
